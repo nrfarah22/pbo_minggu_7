@@ -1,0 +1,8 @@
+ID CUSTOMER = 312
+	nama customer = farah
+	No.hp = 85727440
+	Alamat = magelang
+ID HEWAN = 111
+	uni (1 th) / perempuan / abu / british / 
+	6jam 				 TOTAL = 60000
+[ 1001 ][ izzati ][ 81640984 ]
